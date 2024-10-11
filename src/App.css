@@ -1,0 +1,32 @@
+html{
+    direction: rtl;
+
+}
+h3{
+    font-size: 16px;
+    font-weight: 400;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+p{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+.MuiSvgIcon-root {
+    color:white !important;
+}
+
+.MuiOutlinedInput-notchedOutline{
+    border-color: white !important;
+}
+
+.MuiSelect-select{
+    color:white !important;
+}
